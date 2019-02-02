@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+    #*
+    你看不到我~~~~
+    *#
+    $!{value1} 看这里啊
+    $!{value2} ## 如果不存在，强制为空
+    ${value3}
+
+    colors: $!{colors}
+
+    #foreach($color in $colors)
+        This is Color $!{foreach.index}: $color, $!{foreach.count}
+    #end
+
+        看这里吧 colors: $!{$vos}
+    #foreach($vo in $vos)
+    这里是用户名1$!{vo}这里是用户名
+    #end
+
+
+
+
+</pre>
+</body>
+</html>
