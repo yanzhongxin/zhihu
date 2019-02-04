@@ -95,11 +95,11 @@
 
 ## 项目基础配置
 
-    创建git仓库，本地配置idea并测试pull和push。
+    创建git仓库，本地配置idea并测试pull和push，项目推送到github上git@github.com:yanzhongxin/zhihu.git。
     
     创建SpringBoot工程，导入Web，Velocity和Aop的包。
     
-    生成Maven项目，pom.xml包含上述依赖，应用名称是toutiao,小组id是com.nowcoder。
+    生成Maven项目，pom.xml包含上述依赖，应用名称是zhihu,项目所属id是com.yanzhongxin。
     
 ## 基本框架开发
     
