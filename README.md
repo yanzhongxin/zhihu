@@ -70,7 +70,7 @@
 
 1. Spring入门，模板语法和渲染
 
-    进行Spring语言的介绍和讲解，模板语法和渲染
+    进行Spring语言的介绍和讲解，模板语法和渲染（注意springboot1.5开始不支持velocity模板引擎，可以用Thymeleaf或者Freemarker代替）
 
 1. 数据库交互iBatis集成
 
